@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,200;0,300;0,400;1,700&display=swap"
+        rel="stylesheet">
+    <title>The Hub Cafe and Lounge</title>
+</head>
+
+<body>
+    <nav>
+        <img src="images/logo.jpg" alt="logo" id="logo">
+        <ol type="a">
+            <li><a href="">MENU</a></li>
+            <li><a href="">EVENTS</a></li>
+            <li><a href="">CONTACT</a></li>
+        </ol>
+    </nav>
+    <img src="images/main.gif" alt="breakfast image" id="main_image">
+
+    <div id="container1">
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi earum quia ea necessitatibus, ipsum dolor
+            natus
+            inventore, voluptas architecto aperiam quibusdam laboriosam, sint et quo repellendus magnam reiciendis?
+            Excepturi, veritatis.
+            Consequatur similique impedit nulla nihil odio quia recusandae porro illo laboriosam, nemo iste unde? Ipsa,
+            error facilis in quasi itaque vero maiores pariatur. Corrupti, a officiis? Magnam dolorum nobis ipsa!
+        </p>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim adipisci eligendi nemo dolores! Cum dicta
+            eaque
+            nostrum. Officiis laboriosam veniam, nulla molestiae cupiditate nostrum sed debitis id autem! Officia,
+            expedita.
+            Ut eligendi, similique qui, exercitationem vero laborum sequi, reprehenderit ipsum modi iusto animi
+            veritatis
+            optio molestiae minus? Adipisci et, inventore, at eos hic repudiandae, consequatur rerum repellendus
+            sapiente in
+            delectus.
+            Dolorum accusantium eligendi minima perferendis sit modi doloribus? Possimus molestias similique, velit
+            dolores
+            aliquam fugit! Ducimus harum nihil voluptatum cumque ea laboriosam, officia, praesentium iure vel nesciunt
+            ab!
+            Omnis, ipsa?
+
+        </p>
+    </div>
+    <div id="container2">
+        <img src="images/image1.jpeg" alt="image 1">
+        <img src="images/image2.jpeg" alt="image 2">
+        <img src="images/image3.jpeg" alt="image 3">
+    </div>
+
+    <footer>
+        <p id="contact">Contact: Group 4</p>
+        <p id="copyright">Copyright 2021</p>
+    </footer>
+</body>
+
+</html>
